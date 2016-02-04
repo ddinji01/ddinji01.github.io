@@ -30,3 +30,7 @@ body{
 .left{
     float:left;
 }
+.link{
+	font-weight:bold;
+	color:maroon;
+}
