@@ -1,6 +1,17 @@
 
+body{
+	background-color:lightblue;
+	color:navy;
+}
+
 .name{
 	text-align:center;
+}
+
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .right{
     float:right;
