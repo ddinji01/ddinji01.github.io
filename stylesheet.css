@@ -2,6 +2,8 @@
 body{
 	background-color:lightblue;
 	color:navy;
+	margin-left:50px;
+	margin-right:50px;
 }
 
 .name{
@@ -33,7 +35,4 @@ body{
 .link{
 	font-weight:bold;
 	color:maroon;
-}
-.text{
-	margin-left:50px;
 }
